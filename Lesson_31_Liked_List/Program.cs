@@ -1,7 +1,7 @@
-﻿using Lesson_31_Liked_List.Model;
+﻿using Lesson_31_Linked_List.Model;
 using System;
 
-namespace Lesson_31_Liked_List
+namespace Lesson_31_Linked_List
 {
     class Program
     {

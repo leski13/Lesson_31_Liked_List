@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lesson_31_Liked_List.Model
+namespace Lesson_31_Linked_List.Model
 {
     /// <summary>
     /// Ячейка списка
